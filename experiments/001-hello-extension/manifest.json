@@ -1,0 +1,9 @@
+{
+    "manifest_version" : 3,
+    "name" : "Chrome2PDF Lab - Experiment 001",
+    "version" : "0.1.0",
+    "description" : "Ex-001 : understanding how Chrome loads an extension.",
+    "action" : {
+        "default_popup" : "popup.html"
+    }
+}
