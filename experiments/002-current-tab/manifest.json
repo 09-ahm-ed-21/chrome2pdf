@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name" : "Chrome2PDF Lab - Experiment 002",
+    "version" : "0.1.0",
+    "description" : "Ex-002 : inspecting currently active browser tab from extension",
+    "permissions" : [
+        "tabs"
+    ],
+    "action" : {
+        "default_popup" : "popup.html"
+    }
+}
