@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Chrome2PDF Lab - Experiment 003",
+    "version": "0.1.0",
+    "description": "Ex-003: testing extension content scripts and webpage DOM access",
+    "permissions": [],
+    "action": {"default_popup": "popup.html"},
+    "content_scripts": [{"matches":["<all_urls>"], "js":["content.js"]}]
+}
