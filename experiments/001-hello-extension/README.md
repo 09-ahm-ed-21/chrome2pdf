@@ -34,3 +34,8 @@ Demonstrate a functioning Chrome extension loaded locally in Developer Mode of B
 - Can the popup access the current webpage? How?
 - What happens when the popup is closed?
 - How does the extension communicate with the webpage?
+
+***
+
+|[Ahmed Hakeem 2026 🄯](https://ahmedhakeem.in/)|
+|:---:|

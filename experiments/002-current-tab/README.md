@@ -34,3 +34,8 @@ Demonstrate an extension with access to the currently active browser tab
 
 ## Further Questions
 Can this data be sent away from the user, towards a different end-point?
+
+***
+
+|[Ahmed Hakeem 2026 🄯](https://ahmedhakeem.in/)|
+|:---:|
